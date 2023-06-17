@@ -1,6 +1,6 @@
 # Introduction
 
-This is a README file template for a Neomorphic Profile Card. It provides a basic structure for creating a README file for your GitHub repository. The profile card design showcases a user's profile image, name, role, a brief description, and social media statistics.
+This is a README file template for a Neomorphic Profile Card. The profile card design showcases a user's profile image, name, role, a brief description, and social media statistics.
 
 ## Code Explanation
 
@@ -48,4 +48,4 @@ The CSS code provided in the template styles the HTML elements to achieve the Ne
 
 ## Conclusion
 
-This README file template provides a starting point for showcasing a Neomorphic Profile Card in your GitHub repository. You can customize the content, styling, and structure according to your needs. Remember to update the profile image, social media links, and other details to match your own information. Feel free to
+This README file template provides a starting point for showcasing a Neomorphic Profile Card. You can customize the content, styling, and structure according to your needs. Remember to update the profile image, social media links, and other details to match your own information.
